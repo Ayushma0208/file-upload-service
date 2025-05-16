@@ -1,4 +1,3 @@
-Here is your complete README.md file — ready to include in your project zip or GitHub repository:
 
 📄 README.md
 
