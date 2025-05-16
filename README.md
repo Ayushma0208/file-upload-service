@@ -9,7 +9,7 @@ Built with:
 
 * Node.js (ESM)
 * Express.js
-* Prisma ORM (SQLite/PostgreSQL)
+* Prisma ORM PostgreSQL(neonsql)
 * BullMQ + Redis for background jobs
 * JWT authentication
 * Docker & Docker Compose
